@@ -1,0 +1,9 @@
+{
+  "name": "Certificate #0",
+  "description": "Blockchain Development Certificate",
+  "image": "https://peach-fast-clam-38.mypinata.cloud/ipfs/bafkreid4gh6axv3j62mstkpkfhosg5ofpoop6yoviwr5tydnd6bz3xnone",
+  "attributes": [
+    { "trait_type": "Course", "value": "Blockchain 101" },
+    { "trait_type": "Year", "value": "2025" }
+  ]
+}
